@@ -71,6 +71,8 @@
     <ecomdev>
         <productshippingpage>
             <controller_actions>
+                <review_product_list />
+                <review_product_view />
                 <catalog_product_view />
             </controller_actions>
         </productshippingpage>
